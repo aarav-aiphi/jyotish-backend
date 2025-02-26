@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Build outputs (if applicable)
+dist/
+build/
+
+# Log files
+logs/
+*.log
+
+# Environment variables (do not commit your .env file)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
